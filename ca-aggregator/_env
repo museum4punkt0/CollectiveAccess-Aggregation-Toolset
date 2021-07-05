@@ -1,0 +1,4 @@
+MONOGDB_CONNECTION = <Your_MonogoDB_or_MongoDB_Atlas_connection>
+SERVICE_URL = https://<your-collectiveaccess-site.tld>/service.php
+API_USER_NAME = <user>
+API_USER_PW = <password>
