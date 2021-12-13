@@ -25,4 +25,5 @@ Programming: Culture to go GbR
 ## Licensing
 The components of this toolset are distributed under MIT license. For more information see the individual repositories:
 [CollectiveAccess Data Aggregator](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-aggregator)
+
 [CollectiveAccess Data Aggregator](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-monogdb-api)
