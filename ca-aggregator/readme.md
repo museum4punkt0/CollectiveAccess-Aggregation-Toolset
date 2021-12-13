@@ -1,7 +1,5 @@
 # CollectiveAccess Data Aggregator
 
-**DRAFT - final version comming soon.**
-
 ### Table of Contents  
 - [Description](#Description)  
 - [Resources](#Resources)
