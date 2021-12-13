@@ -19,11 +19,10 @@ This toolset is part of the project museum4punkt0 - Digital Strategies for the M
 
 ## Credits
 
-Contracting entity: Deutsches Auswandererhaus Bremerhaven
+Contracting entity: Deutsches Auswandererhaus Bremerhaven </br>
 Programming: Culture to go GbR
 
 ## Licensing
-The components of this toolset are distributed under MIT license. For more information see the individual repositories:
-[CollectiveAccess Data Aggregator](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-aggregator)
-
-[CollectiveAccess Data Aggregator](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-monogdb-api)
+The components of this toolset are distributed under MIT license. For more information see the individual repositories:</br>
+[CollectiveAccess Data Aggregator](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-aggregator)</br>
+[GraphQL API](https://github.com/museum4punkt0/CollectiveAccess-Aggregation-Toolset/tree/main/ca-monogdb-api)
