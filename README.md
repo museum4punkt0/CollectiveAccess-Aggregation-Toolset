@@ -15,7 +15,7 @@ The purpose of the toolset is to preprocess data from the native CollectiveAcces
 
 ## Funding
 
-This toolset is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Experience the History of Migration Digitally. The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). Further information: www.museum4punkt0.de/en/
+This toolset is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Experience the History of Migration Digitally. The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). Further information: www.museum4punkt0.de
 
 ## Credits
 
